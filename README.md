@@ -10,16 +10,6 @@ I'm Ryan, an aspiring website designer and developer.
 - 📚 I'm always open to learning new tools and technologies to enhance my skills.
 - 💼 I'm looking forward to collaborating on open-source projects and working with fellow designers and developers.
 
-## My Learning Resources 📚
-
-Here are some resources I've found helpful during my learning journey:
-
-- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/)
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- [CSS-Tricks](https://css-tricks.com/)
-- [A List Apart](https://alistapart.com/)
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-
 ## Connect With Me 🌐
 
 Feel free to reach out to me on the following platforms:
