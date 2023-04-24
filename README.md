@@ -1,10 +1,6 @@
 # Hello, World! 👋🌐
 
-I'm Ryan, an aspiring website designer and developer
-
-# Hello, World! 👋🌐
-
-I'm [Your Name], an aspiring website designer. Welcome to my GitHub profile! Here, you'll find a collection of my projects and learning experiences as I dive into the fascinating world of website design.
+I'm Ryan, an aspiring website designer and developer.
 
 ## About Me 📝
 
