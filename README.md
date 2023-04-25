@@ -1,10 +1,10 @@
 # Hello, World! 👋🌐
 
-I'm Ryan, an aspiring website designer and developer.
+I'm Ryan, a website designer and developer.
 
 ## About Me 📝
 
-- 🌱 I'm currently learning HTML, CSS, and JavaScript to build interactive and visually appealing websites.
+- 🌱 I'm currently learning JavaScript add interactivity to my future projects.
 - 👨‍💻 I'm passionate about creating user-friendly and accessible web experiences for everyone.
 - 🎨 My interests include design principles, typography, and color theory.
 - 📚 I'm always open to learning new tools and technologies to enhance my skills.
