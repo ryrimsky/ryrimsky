@@ -4,7 +4,7 @@ I'm Ryan, a website designer and developer.
 
 ## About Me 📝
 
-- 🌱 I'm currently learning JavaScript add interactivity to my future projects.
+- 🌱 I'm currently learning JavaScript to add interactivity to my future projects.
 - 👨‍💻 I'm passionate about creating user-friendly and accessible web experiences for everyone.
 - 🎨 My interests include design principles, typography, and color theory.
 - 📚 I'm always open to learning new tools and technologies to enhance my skills.
